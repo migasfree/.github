@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://migasfree.org/"><img height="100" src="https://avatars.githubusercontent.com/u/6222105?s=200&v=4"></a>
+  <a href="https://migasfree.org/"><img height="200" src="https://avatars.githubusercontent.com/u/6222105?s=200&v=4"></a>
 </p>
 
 <h1 align="center">Migasfree</h1>
