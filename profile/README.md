@@ -17,6 +17,6 @@ Para saber más, [consulta la documentación](http://fun-with-migasfree.readthed
 * [migasfree-play](https://github.com/migasfree/migasfree-play) - Migasfree Client front-end. Allow install/uninstall available applications and printers.
 * [migasfree-backend](https://github.com/migasfree/migasfree-backend) - Systems Management System (backend). Provides a REST API.
 * [migasfree-frontend](https://github.com/migasfree/migasfree-frontend) - Systems Management System (frontend) (with Quasar framework).
-* [migasfree-stack](https://github.com/migasfree/migasfree-stack) - Migasfree Stack Deploy.
+* [migasfree-swarm](https://github.com/migasfree/migasfree-swarm) - Migrasfree Server Suite 5 on Docker Swarm.
 * [migasfree.github.io](https://github.com/migasfree/migasfree.github.io) - Migasfree Website.
 * [fun-with-migasfree](https://github.com/migasfree/fun-with-migasfree) - Migasfree documentation.
